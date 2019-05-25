@@ -1,3 +1,4 @@
+-- ESX Brasil --
 Locales['sv'] = {
 	['veh_released'] = 'fordonet har ~y~släppts~s~ från ditt garage',
 	['veh_stored'] = 'fordonet har ~g~lagrats~s~ i ditt garage',

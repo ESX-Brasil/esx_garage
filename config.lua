@@ -9,7 +9,7 @@ Config.ZDiff                = 0.5
 Config.EnableOwnedVehicles  = true
 Config.MinimumHealthPercent = 0
 
-Config.Locale = 'en'
+Config.Locale = 'br'
 
 Config.Zones = {}
 
@@ -18,7 +18,7 @@ Config.Garages = {
 	MiltonDrive = {
 
 		IsClosed = true,
-		
+
 		ExteriorEntryPoint = {
 			Pos = {x= -796.542, y = 318.137, z = 84.673},
 		},
@@ -81,7 +81,7 @@ Config.Garages = {
 		}
 
 	},
-	
+
 	IntegrityWay = {
 
 		IsClosed = true,
@@ -148,7 +148,7 @@ Config.Garages = {
 		}
 
 	},
-	
+
 	DidionWay = {
 
 		IsClosed = true,
@@ -199,7 +199,7 @@ Config.Garages = {
 		}
 
 	},
-	
+
 	VinewoodEstate2650 = {
 
 		IsClosed = true,
@@ -266,7 +266,7 @@ Config.Garages = {
 		}
 
 	},
-	
+
 	ImaginationCt265 = {
 
 		IsClosed = true,
@@ -301,7 +301,7 @@ Config.Garages = {
 		}
 
 	},
-	
+
 	SteeleWay1150 = {
 
 		IsClosed = true,

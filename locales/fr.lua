@@ -1,3 +1,4 @@
+-- ESX Brasil --
 Locales['fr'] = {
 
 	['veh_released'] = 'véhicule ~g~sorti',
